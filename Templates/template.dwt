@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<p><img src="../images/header.jpg" width="950" height="150" alt="header" /></p>
+<table width="950" height="523" border="5" cellpadding="5" cellspacing="5">
+  <tr>
+    <td width="194" align="left" valign="top"><p><a href="../index.html">Home</a></p>
+    <p><a href="../about.html">About</a></p>
+    <p><strong>Products</strong></p>
+    <p><a href="../featured-sale/beretta-92fs/beretta-92fs.html">Beretta 92FS (9MM)</a></p>
+    <p><a href="../featured-sale/sig-sauer-p229/sig-sauer-p229.html">Sig Sauer P229 (9MM)</a></p>
+    <p><a href="../featured-sale/heckler-and-koch-p30l/heckler-and-koch-p30l.html">Heckler &amp; Koch P30L (9MM)</a></p>
+    <p><a href="../featured-sale/walther-ppq-m2/walther-ppq-m2.html">Walther PPQ M2</a></p>
+    <p><strong>Ranges</strong></p>
+    <p><a href="../range-locations/east-coast.html">East Coast</a></p>
+    <p><a href="../range-locations/west-coast.html">West Coast</a></p>
+    <p><a href="../range-locations/new-england.html">New England</a></p>
+    <p><a href="../range-locations/midwest.html">Midwest</a></p></td>
+    <td width="707" align="left" valign="top"><h1>Safety First Firearms and Ranges</h1>
+    <p><!-- TemplateBeginEditable name="Content" --><!-- TemplateEndEditable --> </p>
+    <p></p></td>
+  </tr>
+</table>
+<p><img src="../images/footer.jpg" width="950" height="150" alt="footer" /></p>
+</body>
+</html>
